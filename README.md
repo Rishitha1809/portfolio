@@ -131,7 +131,7 @@
 
 <section>
   <h2>Contact</h2>
-  <p>Email: <a href="mailto:reallygreatsite@reallygreatsite.com">reallygreatsite@reallygreatsite.com</a></p>
+  <p>Email: <a href="mailto:rishithavaidhyahemesh@gmail.com">rishithavaidhyahemesh@gmail.com</a></p>
   <p>Website: <a href="https://reallygreatsite.com" target="_blank">reallygreatsite.com</a></p>
 </section>
 
