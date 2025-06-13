@@ -132,7 +132,7 @@
 <section>
   <h2>Contact</h2>
   <p>Email: <a href="mailto:rishithavaidhyahemesh@gmail.com">rishithavaidhyahemesh@gmail.com</a></p>
-  <p>Website: <a href="https://reallygreatsite.com" target="_blank">reallygreatsite.com</a></p>
+  <p>Website: <a href="https://github.com/Rishitha1809/portfolio.git" target="_blank">https://github.com/Rishitha1809/portfolio.git</a></p>
 </section>
 
 <footer>
